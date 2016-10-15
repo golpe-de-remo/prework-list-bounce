@@ -1,0 +1,11 @@
+.panel-body.todo {
+  background-color: #FFFFFF;
+}
+
+.panel-body.doing {
+  background-color: #FFF176;
+}
+
+.panel-body.done {
+  background-color: #00E676;
+}
